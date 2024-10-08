@@ -3,7 +3,7 @@ En esta página explicamos sobre las CETES y un ejemplo práctico con interés s
 # CETES
 ## ¿Qué son las cetes? 
 
-Su nombre completo son Certificados de la Tesorería de la Federación, se trata de instrumentos de inversión que emite el gobierno mexicano. Básicamente al comprarlos están prestando dinero al gobienro y cambio esto te devuelve el monto invertido más un interés al final de período.
+Su nombre completo son Certificados de la Tesorería de la Federación, se trata de instrumentos de inversión que emite el gobierno mexicano. Básicamente al comprarlos están prestando dinero al gobierno y a cambio esto te devuelve el monto invertido más un interés al final de período.
 
 ## ¿Cómo se subastan? 
 
@@ -18,7 +18,7 @@ Los participantes principales son fondos de inversiones, bancos, aseguradoras y 
 ## ¿Qué tipos de subasta existen? 
 Las subastas de CETES se dividen en dos tipos: 
 •	Competitiva: Los inversionistas ofrecen una tasa de interés (rendimiento) a la cual están dispuestos a comprar. Comunmente los inversionistas que tienen las posturas más bajas son los que son aceptadas primero. 
-•	No competitiva: Esta ocurre cuando los inversionistas solo indican la cantidad de CETES que desean comprar, la tasa de interés que se les asigna es la resultante del promedio de la subasta.
+•	No competitiva: Esta ocurre cuando los inversionistas sólo indican la cantidad de CETES que desean comprar, la tasa de interés que se les asigna es la resultante del promedio de la subasta.
 
 ## ¿Cómo se determinan los resultados?
 Una vez que termina la subasta, el banco de México asigna los CETES a aquellos que tiene las posturas más bajas, hasta que se cubre el total del monto disponible a la tasa de interés más alta aceptada se le conoce como tasa de corte, y finalmente a las posturas que fueron superiores no reciben CETES.
@@ -68,8 +68,8 @@ El precio de un CETE se puede calcular a partir de su taza de rendimiento o su t
 4- Si haces una venta anticipada deberás esperar aproximadamente para ver reflejado tu dinero
 
 ## Aplicación de interés simple en CETES 
-Tanto el interés simple como el rendimiento de lso CETES crecen de forma lineal en función del tiempo. Nohay capitalización o reinverisón de intereses a lo largo del periodo. 
-Otra característica en común es que en ambos hay u valor inicial o precio de compra, un valor final o valor nominal, una tasa de interés o rendimientos y un plazo de tiempo, solo que en CETES ya está establecido los periodos en días, con sus respectivas tasas variables. 
+Tanto el interés simple como el rendimiento de lso CETES crecen de forma lineal en función del tiempo. No hay capitalización o reinverisón de intereses a lo largo del periodo. 
+Otra característica en común es que en ambos hay un valor inicial o precio de compra, un valor final o valor nóminal, una tasa de interés o rendimientos y un plazo de tiempo, sólo que en CETES ya está establecido los períodos en días, con sus respectivas tasas variables. 
 
 # EJERCICIO PRÁCTICO DE CETES CON INTERÉS SIMPLE 
 Con el siguiente código puede cargar las funciones para llevar a cabo los ejercicios 
