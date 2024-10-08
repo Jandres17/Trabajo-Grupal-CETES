@@ -1,6 +1,3 @@
-# Trabajo-Grupal-CETES
-Trabajo grupal de investigación y exposición equipo CETES
-
 # Equipo-Cetes-
 En esta página explicamos sobre las CETES y un ejemplo práctico con interés simple 
 # CETES
@@ -78,9 +75,9 @@ Otra característica en común es que en ambos hay u valor inicial o precio de c
 Con el siguiente código puede cargar las funciones para llevar a cabo los ejercicios 
 
 Con el siguiente código , puede usted cargar las funciones relaticas a los cálculos de interés simple: 
-{r}
+```{r}
 source("https://raw.githubusercontent.com/Jandres17/Trabajo-Grupal-CETES/refs/heads/main/EjercicioCetes.R")
-
+```
 A continuación se dan ejemplos del uso de las formulas correspondientes: 
 
 ## Arturo Meza quiere invertir en CETES pero no sabe cual es la mejor opción
@@ -92,7 +89,7 @@ $r$= 10.38% anual
 $t$= 1 año 
 
 Se realizan los cálculos
-{r}
+```{r}
 # Creamos objetos con los valores de entrada: 
 valorActual=10000
 tasaPeriodo=0.1038
@@ -101,7 +98,7 @@ nPeriodos=1
 valorFuturo=valorFinalSimple(VA=valorActual,r=tasaPeriodo,t=nPeriodos)
 #Imprimir el resultado:
 valorFuturo
-
+```
 
 # b) Invertir $10,000.00 a un plazo de 3 meses con interés del 10.47%
 Para este caso se tienen los siguientes datos: 
@@ -111,7 +108,7 @@ $r$= 10.47% anual
 $t$= 3 meses 
 
 Se realizan los cálculos
-{r}
+```{r}
 # Creamos objetos con los valores de entrada: 
 valorActual=10000
 tasaPeriodo=0.1047
@@ -120,3 +117,4 @@ nPeriodos=.25
 valorFuturo=valorFinalSimple(VA=valorActual,r=tasaPeriodo,t=nPeriodos)
 #Imprimir el resultado:
 valorFuturo
+```
