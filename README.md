@@ -6,17 +6,17 @@ En esta página explicamos sobre las CETES y un ejemplo práctico con interés s
 # CETES
 ## ¿Qué son las cetes? 
 
-Su nombre completo son Certificados de la Tesorería de la Federación, se trata de instrumentos de inversión que emite el gobierno mexicano. Básicamente al comprarlos están prestando dinero al gobienro y cambio esto te devuelve el monto invertido más un interés al final de periodo
+Su nombre completo son Certificados de la Tesorería de la Federación, se trata de instrumentos de inversión que emite el gobierno mexicano. Básicamente al comprarlos están prestando dinero al gobienro y cambio esto te devuelve el monto invertido más un interés al final de período.
 
 ## ¿Cómo se subastan? 
 
 La subasta de CETES en México es el proceso mediante el cual el gobierno, a través del Banco de México, emite estos instrumentos financieros para obtener un financiamiento. Los CETES son títulos de deuda a corto plazo, y la subasta permite que inversionistas, tanto grandes como pequeños, puedan adquirirlos.
 
 ## ¿Cómo se organiza la subasta?
-Casi todos los martes, el banco de México organiza una subasta mediante la cual pone los CETES a plazos de 28, 91, 182 y 364 dias, dias antes de esto, se anuncia la fecha y la cantidad de CETES que seran ofertados
+Casi todos los martes, el banco de México organiza una subasta mediante la cual pone los CETES a plazos de 28, 91, 182 y 364 dias, dias antes de esto, se anuncia la fecha y la cantidad de CETES que serán ofertados.
 
 ## ¿Quiénes participan? 
-Los participantes principales son fondos de inversiones, bancos, aseguradoras y grandes empresarios, pero tambien los individuos pueden participar mediante la plataforma CETESDirencto, la cual es una buena herramienta para comprar CETES sin participar directamente en una subasta, la unica desventaja es que no permite la opción de proponer tasas de interés.
+Los participantes principales son fondos de inversiones, bancos, aseguradoras y grandes empresarios, pero también los individuos pueden participar mediante la plataforma CETESDirecto, la cual es una buena herramienta para comprar CETES sin participar directamente en una subasta, la única desventaja es que no permite la opción de proponer tasas de interés.
 
 ## ¿Qué tipos de subasta existen? 
 Las subastas de CETES se dividen en dos tipos: 
@@ -58,8 +58,8 @@ El precio de un CETE se puede calcular a partir de su taza de rendimiento o su t
 
 ## Ventajas
 
-1- Es un inversión segura, regulada por la CNBV (Comision Nacional Bancaria y de Valores) y la CONDUCEF (Comisión Nacional para la Proteccióon y Defensa de los usuarios de servicios financieros. 
-2- Flexibilidad para elegir el monto y el plazo 
+1- Es un inversión segura, regulada por la CNBV (Comision Nacional Bancaria y de Valores) y la CONDUCEF (Comisión Nacional para la Proteccióon y Defensa de los Usuarios de Servicios Financieros) 
+2- Flexibilidad para elegir el monto y el plazo
 3- Puedes invertir desde $100.00 - $10,000,000.00
 4- Puedes solicitiar una venta anticipada sin penalizaciones 
 
