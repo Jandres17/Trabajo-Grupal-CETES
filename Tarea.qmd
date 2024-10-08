@@ -1,0 +1,16 @@
+---
+title: "Trabajo Cetes"
+author: "Juan Andres Perez"
+format: html
+editor: visual
+---
+
+# Ejemplo del uso de mis fórmulas
+
+En este ejemplo cargo mi link para la información de CETES de [Github](https://github.com/Jandres17/Trabajo-Grupal-CETES)
+
+Se cargan las funciones de manera remota:
+```{r}
+source("https://raw.githubusercontent.com/Jandres17/Trabajo-Grupal-CETES/refs/heads/main/EjercicioCetes.R")
+```
+
