@@ -33,9 +33,10 @@ Casi todos los martes, el banco de México organiza una subasta mediante la cual
 Los participantes principales son fondos de inversiones, bancos, aseguradoras y grandes empresarios, pero también los individuos pueden participar mediante la plataforma CETESDirecto, la cual es una buena herramienta para comprar CETES sin participar directamente en una subasta, la única desventaja es que no permite la opción de proponer tasas de interés.
 
 ## ¿Qué tipos de subasta existen? 
-Las subastas de CETES se dividen en dos tipos: 
-•	Competitiva: Los inversionistas ofrecen una tasa de interés (rendimiento) a la cual están dispuestos a comprar. Comunmente los inversionistas que tienen las posturas más bajas son los que son aceptadas primero. 
-•	No competitiva: Esta ocurre cuando los inversionistas sólo indican la cantidad de CETES que desean comprar, la tasa de interés que se les asigna es la resultante del promedio de la subasta.
+Las subastas de CETES se dividen en dos tipos:
+
+-	Competitiva: Los inversionistas ofrecen una tasa de interés (rendimiento) a la cual están dispuestos a comprar. Comunmente los inversionistas que tienen las posturas más bajas son los que son aceptadas primero. 
+-	No competitiva: Esta ocurre cuando los inversionistas sólo indican la cantidad de CETES que desean comprar, la tasa de interés que se les asigna es la resultante del promedio de la subasta.
 
 ## ¿Cómo se determinan los resultados?
 Una vez que termina la subasta, el banco de México asigna los CETES a aquellos que tiene las posturas más bajas, hasta que se cubre el total del monto disponible a la tasa de interés más alta aceptada se le conoce como tasa de corte, y finalmente a las posturas que fueron superiores no reciben CETES.
