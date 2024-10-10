@@ -47,6 +47,7 @@ La fecha en la que los inversionistas pagan la cantidad correspondiente a los CE
 ### Emisión Primaria (Subasta)**
 #### Subasta Primaria
 Los CETES se colocan a través de subastas organizadas por el Banco de México (Banxico) los martes de cada semana. En estas subastas participan principalmente instituciones financieras, inversionistas institucionales y grandes empresas.
+
 #### Oferta y Demanda
 Los inversionistas ofrecen precios (descuentos) a los que están dispuestos a comprar los CETES. Banxico adjudica los CETES a los postores que ofrezcan los precios más altos (es decir, los que estén dispuestos a recibir menor rendimiento).
 
@@ -72,17 +73,17 @@ El precio de un CETE se puede calcular a partir de su taza de rendimiento o su t
 
 ## Ventajas
 
-1- Es un inversión segura, regulada por la CNBV (Comision Nacional Bancaria y de Valores) y la CONDUCEF (Comisión Nacional para la Proteccióon y Defensa de los Usuarios de Servicios Financieros) 
-2- Flexibilidad para elegir el monto y el plazo
-3- Puedes invertir desde $100.00 - $10,000,000.00
-4- Puedes solicitiar una venta anticipada sin penalizaciones 
+- Es un inversión segura, regulada por la CNBV (Comision Nacional Bancaria y de Valores) y la CONDUCEF (Comisión Nacional para la Proteccióon y Defensa de los Usuarios de Servicios Financieros) 
+- Flexibilidad para elegir el monto y el plazo
+- Puedes invertir desde $100.00 - $10,000,000.00
+- Puedes solicitiar una venta anticipada sin penalizaciones 
 
 ## Desventajas
 
-1- Los intereses son menores que algunos SOFIPOS (Sociedad Financieras Populares) 
-2- Si haces una venta anticipada podrías vender a un precio menor al que tu compraste
-3- Si tu forma de pago fue domiciliada no puedes hacer una venta anticipada 
-4- Si haces una venta anticipada deberás esperar aproximadamente para ver reflejado tu dinero
+- Los intereses son menores que algunos SOFIPOS (Sociedad Financieras Populares) 
+- Si haces una venta anticipada podrías vender a un precio menor al que tu compraste
+- Si tu forma de pago fue domiciliada no puedes hacer una venta anticipada 
+- Si haces una venta anticipada deberás esperar aproximadamente para ver reflejado tu dinero
 
 ## Aplicación de interés simple en CETES 
 Tanto el interés simple como el rendimiento de lso CETES crecen de forma lineal en función del tiempo. No hay capitalización o reinverisón de intereses a lo largo del periodo. 
