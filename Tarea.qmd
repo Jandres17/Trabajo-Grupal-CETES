@@ -87,9 +87,8 @@ Tanto el interés simple como el rendimiento de lso CETES crecen de forma lineal
 Otra característica en común es que en ambos hay un valor inicial o precio de compra, un valor final o valor nóminal, una tasa de interés o rendimientos y un plazo de tiempo, sólo que en CETES ya está establecido los períodos en días, con sus respectivas tasas variables. 
 
 # EJERCICIO PRÁCTICO DE CETES CON INTERÉS SIMPLE 
-Con el siguiente código puede cargar las funciones para llevar a cabo los ejercicios 
-
-Con el siguiente código , puede usted cargar las funciones relaticas a los cálculos de interés simple: 
+Con el siguiente código puede cargar las funciones para llevar a cabo los ejercicios:
+ 
 ```{r}
 source("https://raw.githubusercontent.com/Jandres17/Trabajo-Grupal-CETES/refs/heads/main/EjercicioCetes.R")
 ```
