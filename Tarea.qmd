@@ -58,6 +58,7 @@ Los inversionistas ofrecen precios (descuentos) a los que están dispuestos a co
 ### Operación
 #### A descuento
 Los CETES se emiten a descuento, lo que significa que se compran a un precio menor al valor nominal (100 pesos) y al vencimiento, el inversionista recibe el valor nominal. La diferencia entre el precio de compra y el valor nominal representa el rendimiento o interés ganado.
+
 #### Plazos
 Los plazos típicos de los CETES son 28, 91, 182 y 364 días. El inversionista puede escoger el plazo que más le convenga.
 
